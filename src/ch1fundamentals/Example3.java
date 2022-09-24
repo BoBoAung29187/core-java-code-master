@@ -6,7 +6,7 @@ package ch1fundamentals;
    Call this file Example3.java.
 */
 class Example3 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int var; // this declares an int variable
         double x; // this declares a floating-point variable
         var = 10; // assign var the value 10

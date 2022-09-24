@@ -5,7 +5,7 @@ package ch1fundamentals;
   Call this file BlockDemo.java.
 */
 class BlockDemo {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double i, j, d;
         i = 5;
         j = 10;
