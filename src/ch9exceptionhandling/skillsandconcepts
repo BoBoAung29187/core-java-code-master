@@ -1,0 +1,13 @@
+Key Skills & Concepts
+● Know the exception hierarchy
+● Use try and catch
+● Understand the effects of an uncaught exception
+● Use multiple catch statements
+● Catch subclass exceptions
+● Nest try blocks
+● Throw an exception
+● Know the members of Throwable
+● Use finally
+● Use throws
+● Know Java’s built-in exceptions
+● Create custom exception classes

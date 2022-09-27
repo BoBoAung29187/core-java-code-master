@@ -1,0 +1,12 @@
+Key Skills & Concepts
+● Understand inheritance basics
+● Call superclass constructors
+● Use super to access superclass members
+● Create a multilevel class hierarchy
+● Know when constructors are called
+● Understand superclass references to subclass objects
+● Override methods
+● Use overridden methods to achieve dynamic method dispatch
+● Use abstract classes
+● Use final
+● Know the Object class

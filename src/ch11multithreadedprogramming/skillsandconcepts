@@ -1,0 +1,14 @@
+Key Skills & Concepts
+● Understand the stream
+● Know the difference between byte and character streams
+● Know Java’s byte stream classes
+● Know Java’s character stream classes
+● Know the predefined streams
+● Use byte streams
+● Use byte streams for file I/O
+● Automatically close a file by using try-with-resources
+● Read and write binary data
+● Use random-access files
+● Use character streams
+● Use character streams for file I/O
+● Apply Java’s type wrappers to convert numeric strings
